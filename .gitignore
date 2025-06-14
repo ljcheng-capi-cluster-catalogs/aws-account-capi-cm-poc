@@ -1,0 +1,9 @@
+
+
+kustomization.yaml
+argocd-proj.yaml
+argocd-gitlab-repo-secrets.yaml
+capi-service-account.yaml
+argocd-app-set-template-gitlab.yaml
+argocd-app-set-template-github.yaml
+argocd-app.yaml
