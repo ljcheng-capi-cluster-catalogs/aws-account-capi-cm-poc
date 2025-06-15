@@ -7,3 +7,6 @@ capi-service-account.yaml
 argocd-app-set-template-gitlab.yaml
 argocd-app-set-template-github.yaml
 argocd-app.yaml
+
+subnet-taggins.yaml
+eks-control-plane.yaml
